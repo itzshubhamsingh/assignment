@@ -5,7 +5,8 @@
   <ul>1. URL: POST /centers</ul>
   <ul>2. Description: Creates and saves a new training center with the provided details.</ul>
   <ul>3. Request Body Format:</ul>
-  <ul>![image](https://github.com/itzshubhamsingh/assignment/assets/82580966/d0213d99-6f80-4bc7-8a5e-08bb8f5178f5)</ul>
+  <ul>![image](https://github.com/itzshubhamsingh/assignment/assets/82580966/3ebe3834-0e8b-4eb4-8ea4-fe1f91c14475)
+</ul>
   <ul>4. Response: Returns the newly created training center details if successful.</ul>
 </ol>
 <ol>Get All Training Centers
