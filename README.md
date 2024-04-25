@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzshubhamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="itzshubhamsingh/assignment" /> </p>
 <h3 align="center">Training Center Registry API</h1>
 <h5> This API provides functionality to manage and retrieve information about government-funded training centers. It allows users to create new training centers, retrieve a list of all centers, and filter centers based on city and state. </h5>
 <ol><h4>Mandatory Endpoints:</h4>
