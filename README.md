@@ -47,7 +47,7 @@
   <ul>5. Maven for dependency management</ul>
 <h4>How to Use</h4>
   <ul>1. Download the zip file from github and extract it in your system.</ul>
-  <ul>2. No need to setup the database or other things, just run the application on your ide.</ul>
+  <ul>2. Run the application on your ide.</ul>
   <ul>3. Check from the console the port number where the server is running (in most cases, it is port: 8080)</ul>
   <ul>4. Open the postman and write the url as mentioned above to test various APIs.</ul>
   <ul>5. For e.g., the url for getting the list of all training centers will be: (GET) "http://localhost:8080/centers"</ul>
