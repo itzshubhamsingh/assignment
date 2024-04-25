@@ -14,20 +14,20 @@
   <ul>3. Response: Returns a JSON array containing all training center details.</ul>
 </ol>
 <ol>Get Training Center by Center Code
-  <ul>URL: GET /centers/{centerCode}</ul>
-  <ul>Description: Retrieves details of a training center based on its center code.</ul>
-  <ul>Path Parameter: "{centerCode}" Unique identifier for the training center.
-  <ul>Response: Returns the training center details if found, or a 404 Not Found error if the center does not exist.</ul>
+  <ul>1. URL: GET /centers/{centerCode}</ul>
+  <ul>2. Description: Retrieves details of a training center based on its center code.</ul>
+  <ul>3. Path Parameter: "{centerCode}" Unique identifier for the training center.
+  <ul>4. Response: Returns the training center details if found, or a 404 Not Found error if the center does not exist.</ul>
 </ol>
 <ol>Filter Training Centers by City
-<ul>URL: GET /centers/city/{cityName}</ul>
-<ul>Description: Filters training centers based on the provided city.</ul>
-<ul>Response: Returns a JSON array containing training centers located in the specified city.</ul>
+<ul>1. URL: GET /centers/city/{cityName}</ul>
+<ul>2. Description: Filters training centers based on the provided city.</ul>
+<ul>3. Response: Returns a JSON array containing training centers located in the specified city.</ul>
 </ol>
 <ol>Filter Training Centers by State
-<ul>URL: GET /centers/state/{stateName}</ul>
-<ul>Description: Filters training centers based on the provided state</ul>
-<ul>Response: Returns a JSON array containing training centers located in the specified state</ul>
+<ul>1. URL: GET /centers/state/{stateName}</ul>
+<ul>2. Description: Filters training centers based on the provided state</ul>
+<ul>3. Response: Returns a JSON array containing training centers located in the specified state</ul>
 </ol>
 
 
